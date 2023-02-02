@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on LILO<br>👯 I’m looking to collaborate on ServerLocal<br>🤝 I’m looking for help with LILO Framework<br>🌱 I’m currently learning Java<br>💬 Ask me about anything<br>⚡ Fun fact im an alpha
+# 💫 About Us:
+🔭 We currently working on LILO<br>👯 We looking to collaborate on ServerLocal<br>🤝 We looking for help with LILO Framework<br>🌱 We currently learning Java<br>💬 Ask us about anything<br>⚡ Fun fact we are alphas
 
 
 ## 🌐 Socials:
